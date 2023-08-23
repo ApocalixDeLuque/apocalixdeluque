@@ -5,7 +5,7 @@
 - 💫 `my name is:` **apocalix**!
 - 🎓 `studying @:` [**universidad de guanajuato**](https://www.ugto.mx/)
 - 🧐 `about me:` **passionate programmer, aim to become a fullstack dev, open to learn anything that wakes my interests**
-- 🔭 `working on:` **my [webpage](https://apocalix.dev) and it's subdivisions**
+- 🔭 `working on:` **my [webpage](https://apocalix.dev) and it's subdivisions, take a look! 👀**
 - 🌱 `currently learning:` **website development & ui/ux design**
 - 📩 `reach me:` **on [discord](https://discord.com/users/441795026956320778), via [linkedin](https://www.linkedin.com/in/apocalix/) or [email](mailto:contact@apocalix.dev) me:** contact@apocalix.dev
 - ⚡ `i love:` **coffee, videogames & synergy c:**
@@ -52,29 +52,5 @@
 
 </hr>
 
-<div align="center">
-  <br/><br/>
-  <p>languages i know:</p>
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/152/152760.png" alt="java"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/9313/9313293.png" alt="c"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/1051/1051328.png" alt="html5"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968509.png" alt="javascript"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/82/82127.png" alt="css3"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968532.png" alt="php"/></a> 
-  <br/><br/>
-  <p>software:</p>
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/9357/9357447.png" alt="git"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/5969/5969028.png" alt="docker"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/3393/3393920.png" alt="react"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968550.png" alt="react"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"/></a> 
-  <br/><br/>
-  <p>daily tools:</p>
-    <a href="#"><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt=""/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="figma"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/2504/2504914.png" alt="google"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 src="https://cdn-icons-png.flaticon.com/128/1051/1051275.png" alt="github"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height=50 height=50 src="https://codahosted.io/packs/15913/unversioned/assets/LOGO/9389d8003e64b893bdccf10097ca167a927ea62482b7b7f76c3f73562b6345f890f7d184ccd1a834e5b661b872ae35a16fd1bb4fce0aa4d10c169efa709a83e99c7076e2e8094ef2502ca6699d77de2ac936ad7eeab36ad48a8d3a9d2285389d1eea883c" alt="todoist"/></a> 
-</div>
 
 <br/>
