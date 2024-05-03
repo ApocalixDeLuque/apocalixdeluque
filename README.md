@@ -3,12 +3,11 @@
 <br/><br/>
 
 - 💫 `my name is:` **apocalix**!
-- 🎓 `studying @:` [**universidad de guanajuato**](https://www.ugto.mx/)
-- 🧐 `about me:` **passionate programmer, aim to become a fullstack dev, open to learn anything that wakes my interests**
-- 🔭 `working on:` **my [webpage](https://apocalix.dev) and it's subdivisions, take a look! 👀**
-- 🌱 `currently learning:` **website development & ui/ux design**
-- 📩 `reach me:` **on [discord](https://discord.com/users/441795026956320778), via [linkedin](https://www.linkedin.com/in/apocalix/) or [email](mailto:contact@apocalix.dev) me:** contact@apocalix.dev
-- ⚡ `i love:` **coffee, videogames & synergy c:**
+- 🎓 `cs student @:` [**universidad de guanajuato**](https://www.ugto.mx/)
+- 🧐 `about me:` **passionate programmer, creative mind. i'm open to learn anything that wakes my interests**
+- 🔭 `working on:` **fullstack web development, freelancing & digital first design**
+- 📩 `reach me:` **on [discord](https://discord.com/users/441795026956320778), via [linkedin](https://www.linkedin.com/in/apocalix/) or email me @** contact@apocalix.dev
+- ⚡ `i love:` **rnb music, traveling, being authentic.**
 
 <br/>
 
