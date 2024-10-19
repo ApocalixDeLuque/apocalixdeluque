@@ -3,6 +3,7 @@
 <br/><br/>
 
 - 💫 `my name is:` **apocalix**!
+- 🚀 `founder of:` [**nightly software**](https://github.com/NightlySoftware)
 - 🎓 `cs student @:` [**universidad de guanajuato**](https://www.ugto.mx/)
 - 🧐 `about me:` **passionate programmer, creative mind. i'm open to learn anything that wakes my interests**
 - 🔭 `working on:` **fullstack web development, freelancing & digital first design**
